@@ -100,3 +100,8 @@ prediction = model.predict(new_image)
   ```
 
 ---
+## 👩‍💻 Author
+
+**Yassmine Yazidi**  
+Business Student & Data Enthusiast  
+Tunisia 🇹🇳
